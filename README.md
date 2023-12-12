@@ -1,7 +1,7 @@
-![logo](https://github.com/Vamsi-Krishna-24/Vamsi-Krishna-24/blob/main/Screenshot%202023-12-12%20at%2012.36.34%20PM.png)
+![logo](https://github.com/Vamsi-Krishna-24/Vamsi-Krishna-24/blob/main/VAMSI%20KRISHNA.png)
 <h1 align="center">Hi 👋, I'm Vamsi Krishna Surisetti</h1>
 <h3 align="center">Data analyst and Data scientist.</h3>
-<img align=“right” alt=“coding” width=“400” src=“https://assets-v2.lottiefiles.com/a/4bac5fc2-1167-11ee-8a4a-1779c9fbd7bf/Cpx8JAjE84.gif”>
+<img align=“right” alt=“coding” width=“400” src=“https://github.com/Vamsi-Krishna-24/Vamsi-Krishna-24/blob/main/lppy.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vamsi-krishna-24" alt="vamsi-krishna-24" /></a> </p>
 
