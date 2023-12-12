@@ -1,15 +1,16 @@
 ![logo](https://github.com/Vamsi-Krishna-24/Vamsi-Krishna-24/blob/main/VAMSI%20KRISHNA.png)
+
 <h1 align="center">Hi 👋, I'm Vamsi Krishna Surisetti</h1>
 <h3 align="center">Data analyst and Data scientist.</h3>
-<img align=“right” alt=“coding” width=“400” src=“https://github.com/Vamsi-Krishna-24/Vamsi-Krishna-24/blob/main/lppy.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/Vamsi-Krishna-24/Vamsi-Krishna-24/blob/main/lppy.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vamsi-krishna-24" alt="vamsi-krishna-24" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vamsi-krishna-24&label=Profile%20views&color=0e75b6&style=flat" alt="vamsi-krishna-24" /> </p>
 
 <p align="left"> <a href="https://twitter.com/vamsi_18" target="blank"><img src="https://img.shields.io/twitter/follow/vamsi_18?logo=twitter&style=for-the-badge" alt="vamsi_18" /></a> </p>
 
 - 💲 ML PROJECTS I'VE DEVELOPED [MarketMastery-Predictive-Analysis-of-NSE-Nifty-Index.](https://github.com/Vamsi-Krishna-24/MarketMastery-Predictive-Analysis-of-NSE-Nifty-Index.)
 
-- 🌱 I’m currently working with **Analyzing Tuberculosis Cases inKaduna State.**
+- 🌱 I’m currently working with **Deep learning Algos and AWS tools.**
 
 - ⚙️ ML PROJECTS ALONG WITH NLP [CustomerPerspective-Sentiment-Analysis-and-Predictive-Modelling.](https://github.com/Vamsi-Krishna-24/CustomerPerspective-Sentiment-Analysis-and-Predictive-Modelling.)
 
@@ -41,3 +42,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vamsi-krishna-24&show_icons=true&locale=en&layout=compact" alt="vamsi-krishna-24" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vamsi-krishna-24&show_icons=true&locale=en" alt="vamsi-krishna-24" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vamsi-krishna-24&" alt="vamsi-krishna-24" /></p>
+
+
