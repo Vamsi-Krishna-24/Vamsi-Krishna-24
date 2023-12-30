@@ -5,7 +5,7 @@
 
 <img src="https://raw.githubusercontent.com/Vamsi-Krishna-24/Vamsi-Krishna-24/main/VAMSI%20KRISHNA.png" >
 
-
+<img align="right" alt="Coding" width="600" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vamsi-krishna-24&label=Profile%20views&color=0e75b6&style=flat" alt="vamsi-krishna-24" /> </p>
