@@ -15,9 +15,9 @@
 - ⚙️ [My work on DATA ANALYTICS ](https://github.com/Vamsi-Krishna-24/RetailData-Analytics-Nexus/blob/main/README.md)
 
 
-- 💲  [Jazzing up DATA SCIENCE vibes!](https://github.com/Vamsi-Krishna-24/Customer-Segmentation-Sentiment-Analysis-and-Predictive-Modelling./blob/main/README.md)
+- 💲  [DATA SCIENCE vibes!](https://github.com/Vamsi-Krishna-24/Customer-Segmentation-Sentiment-Analysis-and-Predictive-Modelling./blob/main/README.md)
 
-- 🤝  [Teaching MACHINES to LEARN& dream big!](https://github.com/Vamsi-Krishna-24/STOCK_MOVEMENT_PREDICTION_/blob/main/README.md)
+- 🤝  [MY MACHINES Do LEARN!](https://github.com/Vamsi-Krishna-24/STOCK_MOVEMENT_PREDICTION_/blob/main/README.md)
 
 - 🌱 I’m currently working with **Deep learning Algos and AWS tools.**
 
