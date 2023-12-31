@@ -23,12 +23,13 @@
 
 <p align="left"> <a href="https://twitter.com/vamsi_18" target="blank"><img src="https://img.shields.io/twitter/follow/vamsi_18?logo=twitter&style=for-the-badge" alt="vamsi_18" /></a> </p>
 
-- ⚙️ [My work on DATA ANALYTICS ](https://github.com/Vamsi-Krishna-24/RetailData-Analytics-Nexus/blob/main/README.md)
+ 💡 MY WORKS:
+- ⚙️ [ DATA ANALYTICS ](https://github.com/Vamsi-Krishna-24/RetailData-Analytics-Nexus/blob/main/README.md)
 
 
-- 💲  [DATA SCIENCE vibes!](https://github.com/Vamsi-Krishna-24/Customer-Segmentation-Sentiment-Analysis-and-Predictive-Modelling./blob/main/README.md)
+- 💲  [DATA SCIENCE ](https://github.com/Vamsi-Krishna-24/Customer-Segmentation-Sentiment-Analysis-and-Predictive-Modelling./blob/main/README.md)
 
-- 🤝  [MY MACHINES Do LEARN!](https://github.com/Vamsi-Krishna-24/STOCK_MOVEMENT_PREDICTION_/blob/main/README.md)
+- 🤝  [MACHINE LEARNING](https://github.com/Vamsi-Krishna-24/STOCK_MOVEMENT_PREDICTION_/blob/main/README.md)
 
 - 🌱 I’m currently working with **Deep learning Algos and AWS tools.**
 
