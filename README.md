@@ -40,7 +40,7 @@
 
 - 📫 How to reach me **iamvkrishna24@gmail.com**
 
-- 📄 Know about my experiences [H](https://vamsikrishna-surisetti.tiiny.site)
+- 📄 Know about my experiences [Here](https://vamsikrishna-surisetti.tiiny.site)
 
 - ⚡ Fun fact **Why do data scientists prefer dark chocolate? Because they appreciate a good byte of information!**
 
