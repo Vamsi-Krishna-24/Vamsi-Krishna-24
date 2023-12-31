@@ -5,6 +5,15 @@
 <h1 align="center">Hi 👋, I'm Vamsi Krishna Surisetti</h1>
 <h3 align="center">Data analyst and Data scientist.</h3>
 
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon"width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+</div>
+
+
 <img src="https://raw.githubusercontent.com/Vamsi-Krishna-24/Vamsi-Krishna-24/main/VAMSI%20KRISHNA.png" >
 
 <img align="right" alt="Coding" width="600" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
