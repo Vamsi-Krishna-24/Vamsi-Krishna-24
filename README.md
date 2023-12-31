@@ -53,7 +53,7 @@
   </a>
   
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/vamsikrish24/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vamsikrish24/" height="30" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="https://www.linkedin.com/in/vamsikrish24/" height="30" width="40" />
   </a>
   
   <a href="https://kaggle.com/vamsionkaggle24" target="blank">
