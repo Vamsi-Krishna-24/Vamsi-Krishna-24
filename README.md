@@ -62,6 +62,14 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vamsi-krishna-24&show_icons=true&locale=en" alt="vamsi-krishna-24" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vamsi-krishna-24&" alt="vamsi-krishna-24" /></p>
+<br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">Activity:</h3>
+
+![Vamsi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vamsi-Krishna-24&bg_color=aedcf9&color=192457&line=312fa2&point=7f5cff&area=true&hide_border=true)
+<br><br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
