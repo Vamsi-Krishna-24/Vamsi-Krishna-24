@@ -48,7 +48,7 @@
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Twitter_icon.svg" alt="vamsi_18" height="30" width="40" />
   </a>
   
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/vamsikrish24/" target="blank">
+  <a href="https://www.linkedin.com/in/vamsikrish24/" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="https://www.linkedin.com/in/vamsikrish24/" height="30" width="40" />
   </a>
   
